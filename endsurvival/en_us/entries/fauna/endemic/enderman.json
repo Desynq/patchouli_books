@@ -1,0 +1,17 @@
+{
+	"name": "Endermen",
+	"icon": "minecraft:ender_pearl",
+	"category": "patchouli:fauna/endemic",
+	"pages": [
+		{
+			"type": "patchouli:text",
+			"text": "A very common, tall creature that seems to roam in packs and appears to be mostly neutral as long as eye contact is not made."
+		},
+		{
+			"type": "patchouli:entity",
+			"entity": "minecraft:enderman",
+			"name": "Enderman",
+			"text": "They're tall, black, and steal your belongings."
+		}
+	]
+}
