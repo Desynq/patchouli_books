@@ -5,13 +5,13 @@
 	"pages": [
 		{
 			"type": "patchouli:text",
-			"text": "A very common, tall creature that seems to roam in packs and appears to be mostly neutral as long as eye contact is not made."
+			"text": "Endermen are tall creatures with unproportionately long arms, which they use to pick up blocks and carry them. They are passive when unprovoked, however if direct eye contact is made they will see it as a threat. If you are the first one to break eye contact, they will become enraged and attack."
 		},
 		{
 			"type": "patchouli:entity",
 			"entity": "minecraft:enderman",
 			"name": "Enderman",
-			"text": "They're tall, black, and steal your belongings."
+			"text": "$(o)They're tall, black, and steal your belongings."
 		}
 	]
 }
