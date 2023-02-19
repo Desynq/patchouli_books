@@ -1,0 +1,27 @@
+{
+	"name": "Purpur Ruins",
+	"icon": "minecraft:purpur_block",
+	"category": "patchouli:structures",
+	"pages": [
+		{
+			"type": "patchouli:text",
+			"text": "Ruins of buildings made of Purpur. It's not yet known how far back these ruins date, although current estimates suggest that they are well over 1,000 years old. The chests in the ruins don't seem to contain anything of real value, just odd items related to the End."
+		},
+		{
+			"type": "patchouli:multiblock",
+			"multiblock": {
+				"pattern": [
+					["     ","  P  ","     "],["  P  "," PPP ","     "],["  PP "," PPPP"," P P "],[" PPP ","PP0PP"," PCPP"]
+				],
+				"mapping": {
+					"P": "minecraft:purpur_block",
+					"C": "minecraft:chest[facing=east]",
+					"0": "minecraft:purpur_block"
+				}
+			},
+			"name": "Purpur Ruins",
+			"enable_visualize": false,
+			"text": "$(o)Did someone say loot?"
+		}
+	]
+}

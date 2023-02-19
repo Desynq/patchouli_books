@@ -1,0 +1,28 @@
+{
+	"name": "Obsidian Pillars",
+	"icon": "minecraft:obsidian",
+	"category": "patchouli:structures",
+	"pages": [
+		{
+			"type": "patchouli:text",
+			"text": "Large pillars of obsidian. There seem to be 10 of them, with varying heights and some of them having chain enclosures on top. They all have a single block of bedrock resting atop them in the centre, which is supposedly meant to hold something. What it's supposed to hold is unknown. Besides this, they are largely unremarkable, and serve mostly as decoration."
+		},
+		{
+			"type": "patchouli:multiblock",
+			"multiblock": {
+				"pattern": [
+					["     ","     ","  B  ","     ","     "],[" OOO ", "OOOOO","OOOOO","OOOOO"," OOO "],[" OOO ", "OOOOO","OOOOO","OOOOO"," OOO "],[" OOO ", "OOOOO","OOOOO","OOOOO"," OOO "],[" OOO ", "OOOOO","OOOOO","OOOOO"," OOO "],[" OOO ", "OOOOO","OOOOO","OOOOO"," OOO "],[" OOO ", "OOOOO","OOOOO","OOOOO"," OOO "],[" OOO ", "OOOOO","OOOOO","OOOOO"," OOO "],[" OOO ", "OOOOO","OOOOO","OOOOO"," OOO "],[" OOO ", "OOOOO","OOOOO","OOOOO"," OOO "],[" OOO ", "OOOOO","OOOOO","OOOOO"," OOO "],[" OOO ", "OOOOO","OOOOO","OOOOO"," OOO "],[" OOO ", "OOOOO","OOOOO","OOOOO"," OOO "],[" OOO ", "OOOOO","OOOOO","OOOOO"," OOO "],[" OOO ", "OOOOO","OOOOO","OOOOO"," OOO "],[" OOO ", "OOOOO","OOOOO","OOOOO"," OOO "],[" OOO ", "OOOOO","OOOOO","OOOOO"," OOO "],[" OOO ", "OOOOO","OOOOO","OOOOO"," OOO "],[" OOO ", "OOOOO","OOOOO","OOOOO"," OOO "],[" OOO ", "OOOOO","OOOOO","OOOOO"," OOO "],[" OOO ", "OOOOO","OOOOO","OOOOO"," OOO "],[" OOO ", "OOOOO","OO0OO","OOOOO"," OOO "]
+				],
+				"mapping": {
+					"O": "minecraft:obsidian",
+					"0": "minecraft:obsidian",
+					"B": "minecraft:bedrock",
+					"I": "minecraft:iron_bars"
+				}
+			},
+			"name": "Obsidian Pillar",
+			"enable_visualize": false,
+			"text": "$(o)Legend says they're part of an ancient summoning ritual..."
+		}
+	]
+}

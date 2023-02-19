@@ -1,0 +1,31 @@
+{
+	"name": "Pedestal",
+	"icon": "minecraft:bedrock",
+	"category": "patchouli:structures",
+	"pages": [
+		{
+			"type": "patchouli:text",
+			"text": "A pedestal located in the centre of the circle formed by the $(l:patchouli:structures/obsidian_pillars)Obsidian Pillars$(/l). In it's basin is what can only be described as a tear in space. Walking into this tear seems to bring someone back to their current resting point, or for all intents and purposes, back to their bed. It's advised one does not overuse this phenomena, as it is currently unknown what could go wrong."
+		},
+		{
+			"type": "patchouli:multiblock",
+			"multiblock": {
+				"pattern": [
+					["       ","       ","       ","   B   ","       ","       ","       "],["       ","       ","   W   ","  NBS  ","   E   ","       ","       "],["       ","       ","       ","   B   ","       ","       ","       "],["  BBB  "," BPPPB ","BPPPPPB","BPP0PPB","BPPPPPB"," BPPPB ","  BBB  "],["       ","  BBB  "," BBBBB ", " BBBBB ", " BBBBB ","  BBB  ","       "]
+				],
+				"mapping": {
+					"0": "minecraft:bedrock",
+					"B": "minecraft:bedrock",
+					"W": "minecraft:wall_torch[facing=west]",
+					"N": "minecraft:wall_torch[facing=north]",
+					"S": "minecraft:wall_torch[facing=south]",
+					"E": "minecraft:wall_torch[facing=east]",
+					"P": "minecraft:end_portal"
+				}
+			},
+			"name": "Pedestal",
+			"enable_visualize": false,
+			"text": "$(o)Free torches!"
+		}
+	]
+}
