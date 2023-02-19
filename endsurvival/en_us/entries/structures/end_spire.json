@@ -1,0 +1,40 @@
+{
+	"name": "End Spire",
+	"icon": "minecraft:obsidian",
+	"category": "patchouli:structures",
+	"pages": [
+		{
+			"type": "patchouli:text",
+			"text": "A huge spire of obsidian. There's a door on the front, but I don't know how to open it."
+		},
+		{
+			"type": "patchouli:multiblock",
+			"multiblock": {
+				"pattern": [["         ","         ","         ","         ","    2    ","   232   ","    2    ","         ","         ","         ","         "],["         ","         ","         ","         ","    2    ","   242   ","    2    ","         ","         ","         ","         "],["         ","         ","         ","    2    ","   22    ","  22422  ","   22    ","         ","         ","         ","         "],["         ","         ","         ","    2    ","   222   ","  22422  ","   222   ","         ","         ","         ","         "],["         ","         ","         ","    2    ","   222   ","  22422  ","   2 2   ","    2    ","         ","         ","         "],["         ","         ","         ","    2    ","   2222  ","  22422  ","   2 2   ","    2    ","         ","         ","         "],["         ","         ","    2    ","    22   ","  22222  "," 22 4222 ","   2 2   ","   22    ","    2    ","         ","         "],["         ","         ","    2    ","   222   ","  22222  "," 22 4222 ","   2 22  ","   222   ","    2    ","         ","         "],["         ","         ","    2    ","   2 2   ","  2  22  "," 22 4222 ","  2  22  ","   222   ","    2    ","         ","         "],["         ","    2    ","   22    ","   2 22  ","  2  22  ","222 4222 "," 22  22  ","   222   ","   22    ","    2    ","         "],["         ","    2    ","   2 2   ","   2  2  "," 22   2  ","222 4 22 "," 22   2  ","  2222   ","   22    ","    2    ","         "],["         ","    2    ","   2 2   ","  2   2  "," 2    22 ","22  4 222"," 22 5 2  ","  2252   ","   222   ","    2    ","         "],["         ","    2    ","   2 2   ","  2   2  "," 2    22 ","22     22"," 22   22 ","  224 2  ","   222   ","    2    ","         "],["         ","    2    ","   2 2   ","  2   2  "," 2    22 ","22     22"," 22   22 ","  224 2  ","   222   ","    2    ","         "],["         ","    2    ","   2 2   ","  2   2  "," 2    22 ","2      22"," 22   22 ","  222 2  ","   262   ","    2    ","    2    "],["    2    ","    2    ","   2 2   ","  2   2  "," 2    22 ","2      22"," 22   22 ","  2   2  ","   2722  ","   222   ","    2    "],["    2    ","   222   ","   2 2   ","  2   2  "," 2     2 ","2      22"," 2    22 ","  2   22 ","   2  2  ","   282   ","    2    "],["    2    ","   222   ","  22 22  ","  2   2  "," 2     2 ","2      22"," 2     2 ","  2   22 ","  22  2  ","   2222  ","   222   "],["    2    ","   222   ","  2  22  "," 2    22 "," 2     2 ","2      22"," 2     2 "," 22   22 ","  22  2  ","   2922  ","   2 2   "],["    2    ","   222   ","  2ab22  "," 2c  d22 ","22e   f22","2g    h22","22     2 "," 22   22 ","  22  2  ","   2i22  ","   2 0   "]],
+				"mapping": {
+					"2": "obsidian[]",
+					"0": "obsidian[]",
+					"3": "bedrock[]",
+					"4": "observer[powered=false,facing=up]",
+					"5": "observer[powered=false,facing=north]",
+					"6": "sticky_piston[extended=false,facing=down]",
+					"7": "redstone_block[]",
+					"8": "redstone_wire[east=side,power=0,south=side,north=side,west=side]",
+					"9": "iron_door[hinge=left,half=upper,open=false,powered=false,facing=north]",
+					"a": "chest[waterlogged=false,type=single,facing=south]",
+					"b": "barrel[open=false,facing=south]",
+					"c": "chest[waterlogged=false,type=left,facing=east]",
+					"d": "campfire[lit=true,waterlogged=false,facing=north,signal_fire=false]",
+					"e": "chest[waterlogged=false,type=right,facing=east]",
+					"f": "chest[waterlogged=false,type=single,facing=west]",
+					"g": "barrel[open=false,facing=east]",
+					"h": "barrel[open=false,facing=west]",
+					"i": "iron_door[hinge=left,half=lower,open=false,powered=false,facing=north]"
+				}
+			},
+			"name": "End Spire",
+			"enable_visualize": false,
+			"text": "How do I get inside?"
+		}
+	]
+}

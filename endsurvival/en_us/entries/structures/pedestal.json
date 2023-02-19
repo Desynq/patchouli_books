@@ -5,7 +5,7 @@
 	"pages": [
 		{
 			"type": "patchouli:text",
-			"text": "$(o)A pedestal located in the centre of the circle formed by the $(l:patchouli:structures/obsidian_pillars)Obsidian Pillars$(/l). In it's basin is what can only be described as a tear in space. Walking into this tear seems to bring someone back to their current resting point, or for all intents and purposes, back to their bed. It's advised one does not overuse this phenomena, as it is currently unknown what could go wrong."
+			"text": "$(o)A pedestal located in the centre of the circle formed by the $(l:patchouli:structures/obsidian_pillars)Obsidian Pillars$(/l). In it's basin is what can only be described as a tear in space. Falling into this tear seems to bring someone back to their current resting point, or for all intents and purposes, back to their bed. It's advised one does not overuse this phenomena, as it is currently unknown what could go wrong."
 		},
 		{
 			"type": "patchouli:multiblock",
