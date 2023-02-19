@@ -5,7 +5,7 @@
 	"pages": [
 		{
 			"type": "patchouli:text",
-			"text": "Ruins of purpur buildings from a long time ago. I don't know what they were supposed to be, but they have loot!"
+			"text": "Ruins of buildings made from a strange purple material. They've probably been here for a very long time; I don't know what they were supposed to be, but they still appear to have loot!$(br)$(br)Addendum: Some may contain hostile creatures or traps."
 		},
 		{
 			"type": "patchouli:multiblock",

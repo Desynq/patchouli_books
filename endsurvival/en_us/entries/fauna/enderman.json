@@ -1,6 +1,6 @@
 {
 	"name": "Endermen",
-	"icon": "minecraft:ender_pearl",
+	"icon": "minecraft:enderman_spawn_egg",
 	"category": "patchouli:fauna",
 	"pages": [
 		{

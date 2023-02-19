@@ -1,0 +1,57 @@
+{
+	"name": "Chorus Trees",
+	"icon": "minecraft:chorus_plant",
+	"category": "patchouli:flora",
+	"priority": true,
+	"pages": [
+		{
+			"type": "patchouli:text",
+			"text": "$(o)A rare sight, these trees seem to be an uncommon yet packed sight in this dimension. Their stem seems to be made out of a hard chitinous substance with a fleshy interior that houses some water and nutrients."
+		},
+		{
+			"type": "patchouli:multiblock",
+			"name": "Chorus Plant",
+			"text": "",
+			"enable_visualize": true,
+			"multiblock": {
+				"pattern": [
+					["   ","   "," 1 "],
+					["   ","   "," 2 "],
+					["   ","   ","34 "],
+					[" 1 ","   ","2  "],
+					[" 2 ","5 1","6  "],
+					[" 2 ","2 2","   "],
+					[" 7 ","894","   "],
+					["   "," 2 ","   "],
+					["   "," 0 ","   "],
+					["aaa","aaa","aaa"]
+				],
+				"mapping": {
+					"1": "chorus_flower[age=5]",
+					"2": "chorus_plant[east=false,down=true,south=false,north=false,west=false,up=true]",
+					"0": "chorus_plant[east=false,down=true,south=false,north=false,west=false,up=true]",
+					"3": "chorus_plant[east=true,down=true,south=false,north=false,west=false,up=false]",
+					"4": "chorus_plant[east=false,down=false,south=false,north=false,west=true,up=true]",
+					"5": "chorus_plant[east=false,down=true,south=true,north=false,west=false,up=false]",
+					"6": "chorus_plant[east=false,down=false,south=false,north=true,west=false,up=true]",
+					"7": "chorus_plant[east=false,down=false,south=true,north=false,west=false,up=true]",
+					"8": "chorus_plant[east=true,down=false,south=false,north=false,west=false,up=true]",
+					"9": "chorus_plant[east=true,down=true,south=false,north=true,west=true,up=false]",
+					"a": "end_stone[]"
+				}
+			}
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "minecraft:bone_meal",
+			"title": "Growth Cycle",
+			"text": "$(o)These trees seem to grow fairly quickly, possibly sharing a common evolutionary lineage with overworld bamboo. As they grow, chorus trees branch outwards, carrying their flower higher and higher, eventually splitting it off into duplicates through a bewildering mitotic process. Most trees seem to bear 1-8 flowers, with the numbers being highly variable and dependent on available space."
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "minecraft:chorus_fruit",
+			"title": "Fruit",
+			"text": "$(o)A chorus tree's interior xylem seems to be mostly edible though may pose adverse side effects due to the abundance of $(l)Warpus Rickettsia$()$(o). Consuming chorus fruit therefore poses a minor yet life-threatening risk of contracting Typhus Fever alongside the typical warping effects of the bacterium. Survivors should only eat this food source as a last resort against starvation."
+		}
+	]
+}
