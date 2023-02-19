@@ -5,7 +5,7 @@
 	"pages": [
 		{
 			"type": "patchouli:text",
-			"text": "Ruins of buildings made of Purpur. It's not yet known how far back these ruins date, although current estimates suggest that they are well over 1,000 years old. The chests in the ruins don't seem to contain anything of real value, just odd items related to the End."
+			"text": "Ruins of purpur buildings from a long time ago. I don't know what they were supposed to be, but they have loot!"
 		},
 		{
 			"type": "patchouli:multiblock",
@@ -21,7 +21,7 @@
 			},
 			"name": "Purpur Ruins",
 			"enable_visualize": false,
-			"text": "$(o)Did someone say loot?"
+			"text": "Did someone say loot?"
 		}
 	]
 }

@@ -2,5 +2,5 @@
 	"name": "Endemic Fauna",
 	"icon": "minecraft:end_stone",
 	"parent": "patchouli:fauna",
-	"description": "Fauna that appear to spawn naturally regardless of events or other non-ordinary occurences."
+	"description": "$(o)Fauna that appear to spawn naturally regardless of events or other non-ordinary occurences."
 }

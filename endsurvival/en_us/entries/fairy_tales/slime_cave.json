@@ -1,0 +1,17 @@
+{
+	"name": "Slime Cave",
+	"icon": "minecraft:slime_ball",
+	"category": "patchouli:fairy_tales",
+	"pages": [
+		{
+			"type": "patchouli:text",
+			"text": "$(o)The slime cave is a legend passed down orally between generations among the locals here. It is, as the name describes, a cave full of slime."
+		},
+		{
+			"type": "patchouli:entity",
+			"entity": "minecraft:slime",
+			"name": "Slime Cave",
+			"text": "$(o)No reference image could be found."
+		}
+	]
+}

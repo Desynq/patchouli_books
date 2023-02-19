@@ -5,13 +5,13 @@
 	"pages": [
 		{
 			"type": "patchouli:text",
-			"text": "Endermen are tall creatures with unproportionately long arms, which they use to pick up blocks and carry them. They are passive when unprovoked, however if direct eye contact is made they will see it as a threat. If you are the first one to break eye contact, they will become enraged and attack."
+			"text": "After investigating an Enderman corpse, I've descovered several things. Their bodies are black because of necrosis across their entire body, and weirdly they aren't made up of any H2O whatsoever.$(br2)Addendum: Water seems to inflict physical pain upon them."
 		},
 		{
 			"type": "patchouli:entity",
 			"entity": "minecraft:enderman",
 			"name": "Enderman",
-			"text": "$(o)They're tall, black, and steal your belongings."
+			"text": "They're tall, black, and steal my belongings."
 		}
 	]
 }

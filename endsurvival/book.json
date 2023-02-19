@@ -1,5 +1,5 @@
 {
 	"name": "End Survival",
-	"landing_text": "This is a book cataloguing everything one needs to know to survive long-term in the End.",
+	"landing_text": "$(o)This is a book cataloguing everything one needs to know to survive long-term in the End. Written by a Coalition Scientist.$()$(br2)New writer; $(playername)!",
 	"version": 1
 }

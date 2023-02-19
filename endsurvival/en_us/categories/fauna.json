@@ -1,5 +1,5 @@
 {
 	"name": "Fauna",
 	"icon": "minecraft:zombie_head",
-	"description": "A catalogue of fauna that you've observed and interacted with while in The End."
+	"description": "$(o)A catalogue of fauna found in The End."
 }

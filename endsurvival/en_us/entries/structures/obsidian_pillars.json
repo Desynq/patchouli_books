@@ -5,7 +5,7 @@
 	"pages": [
 		{
 			"type": "patchouli:text",
-			"text": "Large pillars of obsidian. There seem to be 10 of them, with varying heights and some of them having chain enclosures on top. They all have a single block of bedrock resting atop them in the centre, which is supposedly meant to hold something. What it's supposed to hold is unknown. Besides this, they are largely unremarkable, and serve mostly as decoration."
+			"text": "$(o)Large pillars of obsidian. There seem to be 10 of them, with varying heights and some of them having chain enclosures on top. They all have a single block of bedrock resting atop them in the centre, which is supposedly meant to hold something. What it's supposed to hold is unknown. Besides this, they are largely unremarkable, and serve mostly as decoration."
 		},
 		{
 			"type": "patchouli:multiblock",
@@ -22,7 +22,7 @@
 			},
 			"name": "Obsidian Pillar",
 			"enable_visualize": false,
-			"text": "$(o)Legend says they're part of an ancient summoning ritual..."
+			"text": "$(o)$(l)Reference Image."
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
 	"name": "Flora",
 	"icon": "minecraft:flowering_azalea",
-	"description": "A catalogue of flora that you've observed and interacted with while in The End."
+	"description": "$(o)A catalogue of flora found in the end."
 }
