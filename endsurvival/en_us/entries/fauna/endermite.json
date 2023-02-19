@@ -1,0 +1,17 @@
+{
+	"name": "Endermite",
+	"icon": "minecraft:popped_chorus_fruit",
+	"category": "patchouli:fauna",
+	"pages": [
+		{
+			"type": "patchouli:text",
+			"text": "$(o)Endermite are small creatures resembling overworld silverfish. Their origins are unknown, although they seem to travel in packs and have nests. They have the ability to teleport, and are hostile. After being bit, a person seems to go insane and disappear when nobody is watching."
+		},
+		{
+			"type": "patchouli:entity",
+			"entity": "minecraft:endermite",
+			"name": "Endermite",
+			"text": "$(o)$(l)Reference Image."
+		}
+	]
+}

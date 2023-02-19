@@ -1,7 +1,7 @@
 {
 	"name": "Endermen",
 	"icon": "minecraft:ender_pearl",
-	"category": "patchouli:fauna/endemic",
+	"category": "patchouli:fauna",
 	"pages": [
 		{
 			"type": "patchouli:text",

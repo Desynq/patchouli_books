@@ -1,0 +1,21 @@
+{
+	"name": "Sonic Bomb",
+	"icon": "sculk_worm:sonic_grenade",
+	"category": "patchouli:items",
+	"pages": [
+		{
+			"type": "patchouli:text",
+			"text": "I throw it, it sucks things into it, and then it launches everything away while doing damage. Sick. $(br2)Addendum: It seems to use the power of sound in some way. I'm not sure how."
+		},
+		{
+			"type": "patchouli:entity",
+			"entity": "sculk_worm:sonic_grenade_entity",
+			"name": "Sculk Bomb",
+			"text": "KA-BOOM!",
+			"rotate": false,
+			"default_rotation": 95,
+			"offset": -0.35,
+			"scale": 2
+		}
+	]
+}

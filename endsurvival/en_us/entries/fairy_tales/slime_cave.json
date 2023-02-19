@@ -11,7 +11,7 @@
 			"type": "patchouli:entity",
 			"entity": "minecraft:slime",
 			"name": "Slime Cave",
-			"text": "$(o)No reference image could be found."
+			"text": "$(o)$(l)No reference image could be found."
 		}
 	]
 }
