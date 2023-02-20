@@ -1,0 +1,60 @@
+{
+	"name": "Ruined Building",
+	"icon": "minecraft:oak_planks",
+	"category": "patchouli:structures",
+	"pages": [
+		{
+			"type": "patchouli:text",
+			"text": "Ruins of a building once inhabited long ago. To me, it's just free stuff."
+		},
+		{
+			"type": "patchouli:multiblock",
+			"multiblock": {
+				"pattern": [
+					
+	["        ","  1     ","        ","        ","        ","        ","        ","        ","        ","        ","        ","        ","        ","        ","        ","        ","2      2"],
+	["34555543","45555556","45575 52"," 577  5 "," 5575557"," 588   2"," 5  5 42","4555  29","       9","       a","       2","       2","4      2","5      2","4      2","5      4","37775553"],
+	["34   b43","4      5","c      d","2  3   4","4      8","       4","4     5 ","4     8e","2     fg","4      9","       c","h       ","4      4","5      8","h      2","4      d","34i 7573"],
+	["344 4443","4      4","4      5","4  3   h","4      5","8      4","4      4","5      j","4     8 ","4     fk","4      4","4      4","5      6","4      4","4      4","4      5","344l5m43"],
+	["nnnnnnnn","n  1   n","no     n","n  3   n","n     pn","n     qn","n      n","n      n","n       ","n     89","n     fn","n      n","n      n","n      n","n      n","n      n","nnnnnnnn"],
+	["rrrrrrrr","rsrsrssr","rsrsrsrr","rrsrrssr","rsrrsssr","rrrsrssr","rssr0rsr","rrssrrrr","rrsssrsr","rsrrrrrr","rrsssrrr","rrssrrrr","rsssrssr","rrrrsssr","rrrsrsrr","rssrrrrr","rrrrrrrr"]
+
+				],
+				"mapping": {
+					"1": "barrel[open=false,facing=south]",
+					"2": "oak_slab[waterlogged=false,type=bottom]",
+					"3": "oak_log[axis=y]",
+					"4": "oak_planks[]",
+					"5": "oak_slab[waterlogged=false,type=top]",
+					"6": "oak_stairs[waterlogged=false,half=top,shape=straight,facing=north]",
+					"7": "oak_slab[waterlogged=false,type=double]",
+					"8": "oak_stairs[waterlogged=false,half=top,shape=straight,facing=south]",
+					"9": "brick_slab[waterlogged=false,type=double]",
+					"a": "brick_stairs[waterlogged=false,half=bottom,shape=straight,facing=north]",
+					"b": "glass_pane[waterlogged=false,east=true,south=false,north=false,west=false]",
+					"c": "glass_pane[waterlogged=false,east=false,south=false,north=true,west=false]",
+					"d": "glass_pane[waterlogged=false,east=false,south=true,north=false,west=false]",
+					"e": "brick_stairs[waterlogged=false,half=top,shape=straight,facing=south]",
+					"f": "oak_stairs[waterlogged=false,half=bottom,shape=straight,facing=north]",
+					"g": "brick_wall[waterlogged=false,east=none,south=tall,north=tall,west=none,up=false]",
+					"h": "oak_stairs[waterlogged=false,half=bottom,shape=straight,facing=south]",
+					"i": "oak_stairs[waterlogged=false,half=top,shape=straight,facing=east]",
+					"j": "brick_stairs[waterlogged=false,half=bottom,shape=straight,facing=south]",
+					"k": "brick_stairs[waterlogged=false,half=top,shape=straight,facing=north]",
+					"l": "oak_stairs[waterlogged=false,half=top,shape=straight,facing=west]",
+					"m": "oak_stairs[waterlogged=false,half=bottom,shape=straight,facing=west]",
+					"n": "bricks[]",
+					"o": "chest[waterlogged=false,type=single,facing=east]",
+					"p": "chest[waterlogged=false,type=single,facing=west]",
+					"q": "barrel[open=false,facing=west]",
+					"r": "end_stone[]",
+					"0": "end_stone[]",
+					"s": "cobblestone[]"
+				}
+			},
+			"name": "Ruined Building",
+			"enable_visualize": false,
+			"text": "Did someone say loot?"
+		}
+	]
+}
