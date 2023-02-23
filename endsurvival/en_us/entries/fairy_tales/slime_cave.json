@@ -2,10 +2,11 @@
 	"name": "Slime Cave",
 	"icon": "minecraft:slime_ball",
 	"category": "patchouli:fairy_tales",
+	"priority": true,
 	"pages": [
 		{
 			"type": "patchouli:text",
-			"text": "$(o)The slime cave is a legend passed down orally between generations among the locals here. It is, as the name describes, a cave full of slime."
+			"text": "Not many seem to know of the ancient origin of the \"Slime Cave\" legend. It tells of a cave one could find through supernatural interference with the greater divines, a cave full of rich, slimy material that could sell for millions overseas."
 		},
 		{
 			"type": "patchouli:entity",
