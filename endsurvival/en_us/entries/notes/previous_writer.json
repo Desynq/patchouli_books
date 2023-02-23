@@ -1,0 +1,34 @@
+{
+	"name": "Previous Writer",
+	"icon": "minecraft:skeleton_skull",
+	"category": "patchouli:notes",
+	"pages": [
+		{
+			"type": "patchouli:text",
+			"text": "Not too far from my point of origin in this dimension, I appear to have found a deceased, human corpse."
+		},
+		{
+			"type": "patchouli:text",
+			"text": "His clothing shows an emblem commonly associated with Coalition researchers; perhaps this person was exploring this dimension before they met their demise? Their clothing and gear is mostly diminished past any useable point, but they have a book on them."
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "patchouli:guide_book{\"patchouli:book\":\"patchouli:endsurvival\"}",
+			"text": "Anyway, the book on the guy seems to contain some pretty interesting material. He seemed to have been documenting most of the things he discovered in this dimension. Some pages, however, seem to be torn off or blank apart from some weird glyphs. I'll probably have to find a way to translate them later."
+		},
+		{
+			"type": "patchouli:entity",
+			"entity": "minecraft:skeleton",
+			"name": "Coalition Scientist",
+			"text": "$(o)$(l)What remains of the Coalition scientist I took this journal from."
+		},
+		{
+			"type": "patchouli:text",
+			"text": "Should've probably written this earlier, but I'm planning on probably continuing this guy's documenting of events and discoveries in hopes of probably being able to use them later on in order to escape this place."
+		},
+		{
+			"type": "patchouli:text",
+			"text": "Also, is it worth noting that this book is able to write -- without me writing? Coalition tech is some weird stuff, man."
+		}
+	]
+}
