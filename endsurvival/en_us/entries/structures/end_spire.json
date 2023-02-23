@@ -5,7 +5,7 @@
 	"pages": [
 		{
 			"type": "patchouli:text",
-			"text": "A huge spire of obsidian. There's a door on the front, but I don't know how to open it.$(br2)Addendum: It's peculiar shape and the fact that it's one of its kind has led me to believe it came here from another, seperate dimension. Wacky."
+			"text": "A huge spire of obsidian. There's a door on the front, but I don't know how to open it.$(br2)Addendum: Its peculiar shape and the fact that it's one of its kind has led me to believe it came here from another, seperate dimension. Wacky."
 		},
 		{
 			"type": "patchouli:multiblock",
